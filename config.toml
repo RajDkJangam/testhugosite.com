@@ -82,13 +82,7 @@ theme = "hugo-elate-theme-master"
   [params.work]
     enable = true
     title = "Cryptocurrency is a $500 billion industry"
-    description = "By 2025 there are estimates that Crypto Currencies will have a value of about 10% of world GDP, 
-					which is projected to be around $80T. So the market cap of Crypto Currencies should stand around $80T at that time, 
-					or 80-fold increase from today's levels. There will be losers and there will be winners but the tide will raise many. 
-					It is hard to exactly predict the future, in fact we can’t do that! But what we can do is this our team works 24/7 on investigating markets and tokens. 
-					We are on top of press releases, news, rumors and inside information. 
-					We have personal contact with the people behind a project and we are doing technical analysis on tokens. 
-					This all has led to an overall 89% success rate on our trades. Want to trade as a pro? Join the club!"
+    description = "By 2025 there are estimates that Crypto Currencies will have a value of about 10% of world GDP,which is projected to be around $80T. So the market cap of Crypto Currencies should stand around $80T at that time or 80-fold increase from today's levels. There will be losers and there will be winners but the tide will raise many.It is hard to exactly predict the future, in fact we can’t do that! But what we can do is this our team works 24/7 on investigating markets and tokens.We are on top of press releases, news, rumors and inside information.We have personal contact with the people behind a project and we are doing technical analysis on tokens.This all has led to an overall 89% success rate on our trades. Want to trade as a pro? Join the club!"
     footertext = '** Past Results Can Not Gurantee Future Results <a href="http://plmd.me/" target="_blank">Know More</a>'
 
     [[params.work.row]]
