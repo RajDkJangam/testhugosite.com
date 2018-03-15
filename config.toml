@@ -269,12 +269,7 @@ theme = "hugo-elate-theme-master"
         ["icon-envelope", "info@freehtml5.co"],
         ["icon-globe", '<a href="http://freehtml5.co/" target="_blank">freehtml5.co</a>']
       ]
-		<form action="https://formspree.io/your@email.com"
-		method="POST">
-		<input type="text" name="name">
-		<input type="email" name="_replyto">
-		<input type="submit" value="Send">
-		</form> 
+		
 
     name = "Name"
     email = "Email"
