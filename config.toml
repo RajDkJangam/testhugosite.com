@@ -276,6 +276,13 @@ theme = "hugo-elate-theme-master"
     phone = "Phone"
     message = "Message"
     button = "Send message"
+	
+	
+ # Contact section
+  [params.loginregister]
+    enable = true
+    title = "this is login form"
+    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
 
   # Footer section
   [params.footer]

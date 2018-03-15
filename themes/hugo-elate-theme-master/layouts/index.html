@@ -37,6 +37,10 @@
 		{{ if .Site.Params.contact.enable }}
         	{{ partial "contact.html" .}}
         {{ end }}
+		
+		{{ if .Site.Params.loginregister.enable }}
+        	{{ partial "loginregister.html" .}}
+        {{ end }}
 
         {{ if .Site.Params.footer.enable }}
         	{{ partial "footer.html" .}}
