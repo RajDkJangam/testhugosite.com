@@ -11,7 +11,7 @@ theme = "hugo-elate-theme-master"
   # Meta
   author = ""
   description = ""
-  email = ""
+  email = "gotradesdotnet@gmail.com"
   # Navigation
   [params.navigation]
     brand = "gotrades.net"
