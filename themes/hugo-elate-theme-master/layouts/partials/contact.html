@@ -11,14 +11,7 @@
 				</div>
 			</div>
 			<div class="row row-bottom-padded-md">
-				<div class="col-md-6 to-animate">
-					{{ with .Site.Params.contact.info }}{{ . | markdownify }}{{ end }}
-					<ul class="fh5co-contact-info">
-					{{ range .Site.Params.contact.details }}
-						<li class="fh5co-contact-address "><i class="{{ with index . 0}}{{ . }}{{ end }}"></i>{{ with index . 1}}{{ . | markdownify }}{{ end }}</li>
-					{{ end }}
-					</ul>
-				</div>
+				
 			
 				
 				{{ if .Site.Params.contact.form }}
@@ -56,6 +49,14 @@
 					</form>
 				</div>
 				{{ end }}
+				<div class="col-md-6 to-animate">
+					{{ with .Site.Params.contact.info }}{{ . | markdownify }}{{ end }}
+					<ul class="fh5co-contact-info">
+					{{ range .Site.Params.contact.details }}
+						<li class="fh5co-contact-address "><i class="{{ with index . 0}}{{ . }}{{ end }}"></i>{{ with index . 1}}{{ . | markdownify }}{{ end }}</li>
+					{{ end }}
+					</ul>
+				</div>
 			</div>
 		</div>
 		{{ if .Site.Params.contact.map }}
