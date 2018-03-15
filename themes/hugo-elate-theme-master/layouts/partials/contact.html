@@ -19,7 +19,8 @@
 					{{ end }}
 					</ul>
 				</div>
-				{{ if .Site.Params.contact.form }}
+			{{ if .Site.Params.contact.form }}
+				
 				<div class="col-md-6 to-animate">
 					{{ with .Site.Params.contact.form }}{{ . | markdownify }}{{ end }}
 					<form method="post" action="//formspree.io/{{ with .Site.Params.email }}{{.}}{{ end }}">
