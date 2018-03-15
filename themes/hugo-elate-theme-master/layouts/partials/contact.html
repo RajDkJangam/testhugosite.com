@@ -19,7 +19,9 @@
 					{{ end }}
 					</ul>
 				</div>
-			{{ if .Site.Params.contact.form }}
+			</div>
+				
+				{{ if .Site.Params.contact.form }}
 				
 				<div class="col-md-6 to-animate">
 					{{ with .Site.Params.contact.form }}{{ . | markdownify }}{{ end }}
@@ -54,7 +56,7 @@
 					</form>
 				</div>
 				{{ end }}
-			</div>
+			
 		</div>
 		{{ if .Site.Params.contact.map }}
         	<div id="map" class="to-animate"></div>
