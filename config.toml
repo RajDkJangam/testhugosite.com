@@ -256,6 +256,7 @@ theme = "hugo-elate-theme-master"
 
   # Contact section
   [params.contact]
+  
     enable = true
     map = false
     form = true
