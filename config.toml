@@ -257,8 +257,8 @@ theme = "hugo-elate-theme-master"
   # Contact section
   [params.contact]
   
+	map = false
     enable = true
-    map = false
     form = true
     title = "Get in touch"
     description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
