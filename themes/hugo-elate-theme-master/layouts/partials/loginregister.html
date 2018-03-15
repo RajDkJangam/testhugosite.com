@@ -1,4 +1,4 @@
-	<section id="fh5co-contact" data-section="contact">
+	<section id="fh5co-loginregister" data-section="loginregister">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12 section-heading text-center">
@@ -13,16 +13,16 @@
 			<div class="row row-bottom-padded-md">
 				<div class="col-md-6 to-animate">
 					<h3>{{ with .Site.Params.loginregister.info }}{{ . | markdownify }}{{ end }}</h3>
-					<ul class="fh5co-contact-info">
+					<ul class="fh5co-loginregister-info">
 					{{ range .Site.Params.loginregister.details }}
-						<li class="fh5co-contact-address "><i class="{{ with index . 0}}{{ . }}{{ end }}"></i>{{ with index . 1}}{{ . | markdownify }}{{ end }}</li>
+						<li class="fh5co-loginregister-address "><i class="{{ with index . 0}}{{ . }}{{ end }}"></i>{{ with index . 1}}{{ . | markdownify }}{{ end }}</li>
 					{{ end }}
 					</ul>
 				</div>
 				
 			</div>
 		</div>
-		{{ if .Site.Params.contact.map }}
+		{{ if .Site.Params.loginregister.map }}
         	<div id="map" class="to-animate"></div>
 		{{ end }}
 	</section>
