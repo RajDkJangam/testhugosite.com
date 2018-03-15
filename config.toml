@@ -21,6 +21,7 @@ theme = "hugo-elate-theme-master"
     services = "Services"
     about = "About"
     contact = "Contact"
+	loginregister = "LogIn/Register"
 
     # You can add custom links before or after the default links
     # Assign a weight to define the order
