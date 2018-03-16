@@ -10,17 +10,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="row row-bottom-padded-md">
-				<div class="col-md-6 to-animate">
-					<h3>{{ with .Site.Params.loginregister.info }}{{ . | markdownify }}{{ end }}</h3>
-					<ul class="fh5co-loginregister-info">
-					{{ range .Site.Params.loginregister.details }}
-						<li class="fh5co-loginregister-address "><i class="{{ with index . 0}}{{ . }}{{ end }}"></i>{{ with index . 1}}{{ . | markdownify }}{{ end }}</li>
-					{{ end }}
-					</ul>
-				</div>
-				
-			</div>
+			
 		</div>
 		{{ if .Site.Params.loginregister.map }}
         	<div id="map" class="to-animate"></div>
