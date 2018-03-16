@@ -283,7 +283,7 @@ theme = "hugo-elate-theme-master"
   [params.loginregister]
     enable = true
     title = "this is login form"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    description = "To Login Click  <a href="http://vps161767.vps.ovh.ca/" target="_blank" title="Login or Register">Login or Register</a>"
 
   # Footer section
   [params.footer]
