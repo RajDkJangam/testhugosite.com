@@ -283,7 +283,7 @@ theme = "hugo-elate-theme-master"
   [params.loginregister]
     enable = true
     title = "this is login form"
-    subtitle = "To Login Click  Login or Register"
+    subtitle = "To Login Click  Login or Register <a href="http://vps161767.vps.ovh.ca/" target="_blank" title="Technical Analysis">Technical Analysis</a>"
 
   # Footer section
   [params.footer]
