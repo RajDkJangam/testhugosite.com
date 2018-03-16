@@ -27,16 +27,16 @@ theme = "hugo-elate-theme-master"
     # Assign a weight to define the order
     
     # prepended links
-    [[menu.prepend]]
-      url = "http://gohugo.io"
-      name = "Hugo"
-      weight = 10
+    #[[menu.prepend]]
+    #  url = "http://gohugo.io"
+    #  name = "Hugo"
+    # weight = 10
 
     # postpended links
-    #[[menu.postpend]]
-    #  url = "http://gohugo.io"
-    #  name = "External link"
-    #  weight = 10
+    [[menu.postpend]]
+      url = "http://gohugo.io"
+      name = "LogIn/Register"
+      weight = 10
   
   # Hero section
   [params.hero]
@@ -281,7 +281,7 @@ theme = "hugo-elate-theme-master"
 	
  # loginregister section
   [params.loginregister]
-    enable = true
+    enable = false
     title = "this is login form"
     description = "To Login Click  Login or Register "
 
