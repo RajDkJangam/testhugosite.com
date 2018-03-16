@@ -281,7 +281,7 @@ theme = "hugo-elate-theme-master"
 	
  # loginregister section
   [params.loginregister]
-    enable = false
+    enable = true
     title = "this is login form"
     description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
 
