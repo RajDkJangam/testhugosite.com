@@ -432,7 +432,33 @@
 
 		}
 	};
+    
+	var loginregisterAnimate  = function() {
+		var loginregister = $('#fh5co-loginregister');
+		if ( loginregister.length > 0 ) {	
 
+			loginregister.waypoint( function( direction ) {
+										
+				if( direction === 'down' && !$(this.element).hasClass('animated') ) {
+
+					setTimeout(function() {
+						loginregister.find('.to-animate').each(function( k ) {
+							var el = $(this);
+							
+							setTimeout ( function () {
+								el.addClass('fadeInUp animated');
+							},  k * 200, 'easeInOutExpo' );
+							
+						});
+					}, 200);
+
+					$(this.element).addClass('animated');
+						
+				}
+			} , { offset: '80%' } );
+
+		}
+	};
 
 	
 	
@@ -466,7 +492,7 @@
 		aboutAnimate();
 		countersAnimate();
 		contactAnimate();
-		
+		loginregisterAnimate();
 
 	});
 
