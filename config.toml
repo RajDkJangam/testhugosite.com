@@ -58,7 +58,7 @@ theme = "hugo-elate-theme-master"
 
   [[params.intro.item]]
     title = "News"
-    description = "Instant news updates and inside information we get by talking to the people behind the companies."
+    description = "Instant news updates.Stay on top of every headline that matters to your portfolio.."
     url = "#"
     button = "Know More"
     icon = "icon-book-open"
@@ -143,13 +143,13 @@ theme = "hugo-elate-theme-master"
       icon = "icon-layers2"
 	  
     [[params.services.item]]
-      title = "Dumy"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
-      icon = "icon-video2"
+      title = "Blockchain Analyzer"
+      description = "We monitor cold and hot wallets in order to analyze the potential sales in the market resulting from the transfers of large volumes of cryptocurrencies between wallets and exchanges."
+      icon = "icon-organization"
 
       [[params.services.item]]
       title = "CMS &amp; eCommerce"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"      
+      description = "guage ocean"      
       icon = "icon-monitor"
 	  
   
