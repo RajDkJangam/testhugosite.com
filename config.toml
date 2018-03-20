@@ -145,7 +145,7 @@ theme = "hugo-elate-theme-master"
     [[params.services.item]]
       title = "Blockchain Analyzer"
       description = "We monitor cold and hot wallets in order to analyze the potential sales in the market resulting from the transfers of large volumes of cryptocurrencies between wallets and exchanges."
-      icon = "icon-organization2"
+      icon = "icon-organization"
 
       [[params.services.item]]
       title = "Beginner Friendly"
