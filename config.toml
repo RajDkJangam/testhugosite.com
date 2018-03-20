@@ -149,8 +149,8 @@ theme = "hugo-elate-theme-master"
 
       [[params.services.item]]
       title = "Beginner Friendly"
-      description = "guage ocean"      
-      icon = "icon-monitor"
+      description = "Whether you're a total beginner, an experienced , someone who wants to fully commit or just do it part time, we designed or resources section to suit and benefit all. You will acquire a competitive edge over others, learn how to reduce the risks and how to maximize your profits."      
+      icon = "icon-graduation"
 	  
   
 
