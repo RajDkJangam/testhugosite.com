@@ -93,34 +93,34 @@ theme = "hugo-elate-theme-master"
       subtitle = "Sentiment Analysis"
 
     [[params.work.row]]
-      img = "work_2.jpg"
-      alt = "Image2"
-      title = "Project 2"
-      subtitle = "Design"
+      img = "work_2.png"
+      alt = "sentimentrankings"
+      title = "Sentiment Rankings"
+      subtitle = "Sentiment Rankings"
 
     [[params.work.row]]
-      img = "work_3.jpg"
-      alt = "Image3"
-      title = "Project 3"
-      subtitle = "Design"
+      img = "work_3.png"
+      alt = "3danalysishype"
+      title = "3D Analysis of Hype BTC"
+      subtitle = "3D Analysis of Hype"
 
     [[params.work.row]]
       img = "work_4.jpg"
-      alt = "Image4"
-      title = "Project 4"
-      subtitle = "Design"
+      alt = "systemprediction"
+      title = "Our System Prediction"
+      subtitle = "Our System Prediction"
 
     [[params.work.row]]
-      img = "work_5.jpg"
-      alt = "Image5"
-      title = "Project 5"
-      subtitle = "Design"
+      img = "work_5.png"
+      alt = "aiprediction"
+      title = "AI Prediction"
+      subtitle = "AI Prediction"
 
     [[params.work.row]]
-      img = "work_6.jpg"
-      alt = "Image6"
-      title = "Project 6"
-      subtitle = "Design"
+      img = "work_6.png"
+      alt = "aiprediction"
+      title = "AI Prediction"
+      subtitle = "AI Prediction"
 
   
 
