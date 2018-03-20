@@ -113,14 +113,14 @@ theme = "hugo-elate-theme-master"
     [[params.work.row]]
       img = "work_5.png"
       alt = "aiprediction"
-      title = "AI Prediction"
-      subtitle = "AI Prediction"
+      title = "AI Prediction Hourly"
+      subtitle = "AI Prediction hourly"
 
     [[params.work.row]]
       img = "work_6.png"
       alt = "aiprediction"
-      title = "AI Prediction"
-      subtitle = "AI Prediction"
+      title = "AI Prediction Daily"
+      subtitle = "AI Prediction Daily"
 
   
 
