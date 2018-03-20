@@ -82,8 +82,8 @@ theme = "hugo-elate-theme-master"
   # Work section
   [params.work]
     enable = true
-    title = "Cryptocurrency is a $500 billion industry"
-    description = "By 2025 there are estimates that Crypto Currencies will have a value of about 10% of world GDP,which is projected to be around $80T. So the market cap of Crypto Currencies should stand around $80T at that time or 80-fold increase from today's levels. There will be losers and there will be winners but the tide will raise many.It is hard to exactly predict the future, in fact we can’t do that! But what we can do is this our team works 24/7 on investigating markets and tokens.We are on top of press releases, news, rumors and inside information.We have personal contact with the people behind a project and we are doing technical analysis on tokens.This all has led to an overall 89% success rate on our trades. Want to trade as a pro? Join the club!"
+    title = "Invest Now in Blockchain economy"
+    description = "With the unprecedented rise of cryptocurrencies and blockchain technology, new opportunities are arising in field of investment. As the traditional type of economy is reshaping its form, the money will flow into cryptocurrencies, either for the speculative purposes of gaining capital profit or by supporting projects that are built on decentralised platforms. Importantly, individual investors with little knowledge of cryptocurrency content do not want to miss opportunities to be exposed to undervalued digital assets. This is why the The Token Fund is coming."
     footertext = '** Past Results Can Not Gurantee Future Results <a href="http://plmd.me/" target="_blank">Know More</a>'
 
     [[params.work.row]]
