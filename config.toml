@@ -83,7 +83,7 @@ theme = "hugo-elate-theme-master"
   [params.work]
     enable = true
     title = "Invest Now in Blockchain economy"
-    description = "With the unprecedented rise of cryptocurrencies and blockchain technology, new opportunities are arising in field of investment. As the traditional type of economy is reshaping its form, the money will flow into cryptocurrencies, either for the speculative purposes of gaining capital profit or by supporting projects that are built on decentralised platforms. Importantly, individual investors with little knowledge of cryptocurrency content do not want to miss opportunities to be exposed to undervalued digital assets. This is why the The Token Fund is coming."
+    description = "With the unprecedented rise of cryptocurrencies and blockchain technology, new opportunities are arising in field of investment. As the traditional type of economy is reshaping its form, the money will flow into cryptocurrencies, either for the speculative purposes of gaining capital profit or by supporting projects that are built on decentralised platforms. Importantly, individual investors with little knowledge of cryptocurrency content do not want to miss opportunities to be exposed to undervalued digital assets. This is why we created gotrades.io where you can get all required information filtering out noise,Indepth analytics with the help of bleeding edge technologies,Crypto-Currency analysis by top hedge fund managers,Indetail Portfolio.. and many more in your finger tips"
     footertext = '** Past Results Can Not Gurantee Future Results <a href="http://plmd.me/" target="_blank">Know More</a>'
 
     [[params.work.row]]
