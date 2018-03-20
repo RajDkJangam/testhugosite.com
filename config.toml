@@ -101,14 +101,14 @@ theme = "hugo-elate-theme-master"
     [[params.work.row]]
       img = "work_3.png"
       alt = "3danalysishype"
-      title = "3D Analysis of Hype BTC"
+      title = "3D Analysis of Hype (BTC)"
       subtitle = "3D Analysis of Hype"
 
     [[params.work.row]]
       img = "work_4.jpg"
       alt = "systemprediction"
-      title = "Our System Prediction"
-      subtitle = "Our System Prediction"
+      title = "Market Sentiment Wave"
+      subtitle = "Market Sentiment Wave"
 
     [[params.work.row]]
       img = "work_5.png"
