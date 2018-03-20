@@ -105,7 +105,7 @@ theme = "hugo-elate-theme-master"
       subtitle = "3D Analysis of Hype"
 
     [[params.work.row]]
-      img = "work_4.jpg"
+      img = "work_4.png"
       alt = "systemprediction"
       title = "Market Sentiment Wave"
       subtitle = "Market Sentiment Wave"
