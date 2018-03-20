@@ -66,7 +66,7 @@ theme = "hugo-elate-theme-master"
 
   [[params.intro.item]]
     title = "Alerts"
-    description = "Trading signals, tips and alerts on tokens and high potential ICO’s."
+    description = "Trading setups, tips and alerts on coins and high potential ICO’s."
     url = "#"
     button = "Why us?"
     icon = "icon-feed"
