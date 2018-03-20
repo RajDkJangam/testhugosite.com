@@ -130,7 +130,7 @@ theme = "hugo-elate-theme-master"
   [params.services]
     enable = true
     title = "Services"
-    description = "Our services include Indepth market Analysis,Advanced technical Analysis,Curated content feeds from experts and Blockchain Trade Analytics so you can trade confidently and mitigate risks"
+    description = "Our services include Indepth market Analysis,Advanced technical Analysis,Curated content feeds from experts and Blockchain Trade Analytics so you can trade confidently and mitigate risks."
 
     [[params.services.item]]
       title = "Strategy"
@@ -145,10 +145,10 @@ theme = "hugo-elate-theme-master"
     [[params.services.item]]
       title = "Blockchain Analyzer"
       description = "We monitor cold and hot wallets in order to analyze the potential sales in the market resulting from the transfers of large volumes of cryptocurrencies between wallets and exchanges."
-      icon = "icon-organization"
+      icon = "icon-organization2"
 
       [[params.services.item]]
-      title = "CMS &amp; eCommerce"
+      title = "Beginner Friendly"
       description = "guage ocean"      
       icon = "icon-monitor"
 	  
