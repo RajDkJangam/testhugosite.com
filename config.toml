@@ -41,8 +41,8 @@ theme = "hugo-elate-theme-master"
   # Hero section
   [params.hero]
     title = "A Better Way to Trade Crypto Markets."
-    subtitle = 'Get Our Premium List Of Coins We Invest In Before The Public Knows, Instant News Updates, Facts, Technical Analysis, Tips And Alerts.
-	<a href="http://vps161767.vps.ovh.ca/" target="_blank" title="Technical Analysis">Technical Analysis</a>'
+    subtitle = 'We have a system that works with predictive analytics, data, and market indicators powered by Hybrid Intelligence to support crypto market analysis. Instant News with filtered out noise,Facts,In depth Technical Analysis, Tips And Alerts.
+	<a href="http://vps161767.vps.ovh.ca/" target="_blank" title="LogIn/Register">Want to Know More</a>'
  
   # Intro section
   # Available icons: http://simplelineicons.com/
