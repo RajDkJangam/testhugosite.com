@@ -87,10 +87,10 @@ theme = "hugo-elate-theme-master"
     footertext = '** Past Results Can Not Gurantee Future Results <a href="http://plmd.me/" target="_blank">Know More</a>'
 
     [[params.work.row]]
-      img = "work_1.jpg"
-      alt = "Image2"
-      title = "Project 1"
-      subtitle = "Branding"
+      img = "work_1.png"
+      alt = "sentimentanalysis"
+      title = "Sentiment Analysis"
+      subtitle = "Sentiment Analysis"
 
     [[params.work.row]]
       img = "work_2.jpg"
