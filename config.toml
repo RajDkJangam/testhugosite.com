@@ -268,5 +268,5 @@ theme = "hugo-elate-theme-master"
   # Footer section
   [params.footer]
     enable = true
-    copyright = '&copy; <a href="http://vps161767.vps.ovh.ca"  target="_blank">themerkletreetech.com.<a/> All Rights Reserved. <br>By Acessing this site you agree our <a href="http://freehtml5.co/" target="_blank">Legal/Terms of Use/Disclaimer</a> Images: <a href="http://pexels.com/" target="_blank">Pexels</a>, <a href="http://plmd.me/" target="_blank">plmd.me</a> <br>Hugo port by: <a href="https://github.com/saey55" target="_blank">saey55</a>'
+    copyright = <br>'&copy; <a href="http://vps161767.vps.ovh.ca"  target="_blank">themerkletreetech.com.<a/> All Rights Reserved. <br>By Acessing this site you agree our <a href="http://freehtml5.co/" target="_blank">Legal/Terms of Use/Disclaimer</a> Images: <a href="http://pexels.com/" target="_blank">Pexels</a>, <a href="http://plmd.me/" target="_blank">plmd.me</a> <br>Hugo port by: <a href="https://github.com/saey55" target="_blank">saey55</a>'
     
