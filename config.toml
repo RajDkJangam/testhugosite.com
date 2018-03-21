@@ -34,7 +34,7 @@ theme = "hugo-elate-theme-master"
 
     # postpended links
     [[menu.postpend]]
-      url = "http://gohugo.io"
+      url = "http://vps161767.vps.ovh.ca/index.php/login-register/"
       name = "LogIn/Register"
       weight = 10
   
